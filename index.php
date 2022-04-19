@@ -1,3 +1,3 @@
 <?php
-echo "Msys Tech"
+echo "Msys Technology"
 ?>
